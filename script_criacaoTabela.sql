@@ -1,3 +1,4 @@
+--Para rodar o projeto é preciso ter um usuario com o nome "root" com uma senha também "root"
 
 create database base_usuario;
 use base_usuario;
